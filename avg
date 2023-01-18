@@ -1,0 +1,4 @@
+#Average of two numbers using python
+def average(a, b):
+    print("The avrage is", (a+b)/2)
+average(4, 6)
